@@ -1,0 +1,5 @@
+{
+    "name": "rpios",
+    "url": "https://downloads.raspberrypi.org/raspios_lite_armhf_latest",
+    "arch": "armhf"
+}
